@@ -1,0 +1,5 @@
+ollama
+selenium
+python-dotenv
+requests
+pydantic
